@@ -19,6 +19,9 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.aunaturetroyanhotel.com"),
+  verification: {
+  google: "Yd1OdZYL3OsSiSUEFseGRGbmQ4P7EmpNu73BPPWXIsM",
+},
   title: {
     default: "Къща за гости Троян | Au Nature Guest House",
     template: "%s | Au Nature Guest House",
