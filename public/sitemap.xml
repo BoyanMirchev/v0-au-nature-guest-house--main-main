@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.aunaturetroyanhotel.com</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://www.aunaturetroyanhotel.com"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.aunaturetroyanhotel.com"/>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.aunaturetroyanhotel.com/kushtata.jpg</image:loc>
+      <image:title>Къща за гости Au Nature | Къща за гости в Троян</image:title>
+      <image:caption>Къща за гости Au Nature - най-добрата къща за гости в Троян, Троянски Балкан</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.aunaturetroyanhotel.com/kashta-za-gosti-troyan</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://www.aunaturetroyanhotel.com/kashta-za-gosti-troyan"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.aunaturetroyanhotel.com/kushtata.jpg</image:loc>
+      <image:title>Къща за гости Троян - Au Nature Guest House</image:title>
+      <image:caption>Къща за гости край Троян с басейн и двор за групи до 22 души</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.aunaturetroyanhotel.com/zabelezhitelnosti</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://www.aunaturetroyanhotel.com/zabelezhitelnosti"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.aunaturetroyanhotel.com/svobodnovrememanastir.jpg</image:loc>
+      <image:title>Забележителности около Троян</image:title>
+      <image:caption>Топ 10 забележителности в Троянския Балкан</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.aunaturetroyanhotel.com/hotel</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://www.aunaturetroyanhotel.com/hotel"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.aunaturetroyanhotel.com/hotel"/>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.aunaturetroyanhotel.com/troyanhotel2.jpg</image:loc>
+      <image:title>Хотел Троян - Вили под наем</image:title>
+      <image:caption>Au Nature - луксозно настаняване в Троянски Балкан</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.aunaturetroyanhotel.com/rooms</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://www.aunaturetroyanhotel.com/rooms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.aunaturetroyanhotel.com/rooms"/>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.aunaturetroyanhotel.com/cvetnaproletapartament1.jpg</image:loc>
+      <image:title>Стаи и апартаменти Троян</image:title>
+      <image:caption>Уникални тематични стаи в къща за гости Au Nature</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.aunaturetroyanhotel.com/events</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://www.aunaturetroyanhotel.com/events"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.aunaturetroyanhotel.com/events"/>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.aunaturetroyanhotel.com/salon.jpg</image:loc>
+      <image:title>Събития Троян - Сватби и Тиймбилдинг</image:title>
+      <image:caption>Организирайте вашето събитие в Au Nature</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.aunaturetroyanhotel.com/gallery</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://www.aunaturetroyanhotel.com/gallery"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.aunaturetroyanhotel.com/gallery"/>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.aunaturetroyanhotel.com/galeria1.jpeg</image:loc>
+      <image:title>Галерия Au Nature Guest House</image:title>
+      <image:caption>Снимки и видео на къща за гости Троян</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.aunaturetroyanhotel.com/freetime</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://www.aunaturetroyanhotel.com/freetime"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.aunaturetroyanhotel.com/freetime"/>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.aunaturetroyanhotel.com/svobodnovremegledka.jpg</image:loc>
+      <image:title>Туризъм и атракции Троян</image:title>
+      <image:caption>Свободно време в Троянски Балкан</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.aunaturetroyanhotel.com/contacts</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://www.aunaturetroyanhotel.com/contacts"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.aunaturetroyanhotel.com/contacts"/>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

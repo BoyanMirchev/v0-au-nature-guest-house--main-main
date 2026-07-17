@@ -1,0 +1,59 @@
+{
+  "name": "Au Nature Guest House - Къща за гости Троян",
+  "short_name": "Au Nature Троян",
+  "description": "Луксозна къща за гости в Троянски Балкан. Вили под наем, хотели, къщи под наем Троян. Premium guest house in Troyan Balkan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f0",
+  "theme_color": "#1a472a",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "bg",
+  "categories": ["travel", "hotels", "tourism"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/kushtata.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Къща за гости Троян"
+    },
+    {
+      "src": "/troyanhotel2.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Вили под наем Троянски Балкан"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Резервации",
+      "short_name": "Резервации",
+      "description": "Направете резервация",
+      "url": "/contacts",
+      "icons": [{ "src": "/logokushta.jpg", "sizes": "96x96" }]
+    },
+    {
+      "name": "Стаи",
+      "short_name": "Стаи",
+      "description": "Вижте нашите стаи",
+      "url": "/rooms",
+      "icons": [{ "src": "/logokushta.jpg", "sizes": "96x96" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

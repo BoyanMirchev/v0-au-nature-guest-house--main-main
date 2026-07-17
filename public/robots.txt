@@ -1,0 +1,55 @@
+# Robots.txt for Au Nature Guest House
+# Къща за гости Au Nature | Къща за гости в Троян
+# Вили под наем Троян | Хотели Троянски Балкан
+# Au Nature Guest House - Best Guest House in Troyan
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Sitemap location
+Sitemap: https://www.aunaturetroyanhotel.com/sitemap.xml
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Google Images
+User-agent: Googlebot-Image
+Allow: /
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Yandex specific (popular in Eastern Europe)
+User-agent: Yandex
+Allow: /
+Crawl-delay: 2
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Facebook crawler
+User-agent: facebookexternalhit
+Allow: /
+
+# Twitter crawler
+User-agent: Twitterbot
+Allow: /
+
+# LinkedIn crawler
+User-agent: LinkedInBot
+Allow: /
+
+# Pinterest crawler
+User-agent: Pinterestbot
+Allow: /
+
+# Host directive
+Host: https://www.aunaturetroyanhotel.com
