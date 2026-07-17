@@ -6,6 +6,7 @@ import { useState } from "react"
 
 import { BookingModal } from "@/components/booking-modal"
 import { SiteHeader } from "@/components/site-header"
+import { trackEvent } from "@/lib/gtag"
 
 type Room = {
   title: string
@@ -168,11 +169,19 @@ function RoomCard({
 
           <button
             type="button"
-            onClick={onBookingClick}
-            className="text-xs font-semibold uppercase tracking-[0.25em] text-[#8A3E36] transition hover:text-[#6C141C]"
-          >
-            Резервирайте →
-          </button>
+             onClick={() => {
+            trackEvent("booking_click", {
+            room_name: room.title,
+            button_location: "rooms_page",
+            page_path: window.location.pathname,
+    })
+
+    onBookingClick()
+  }}
+  className="text-xs font-semibold uppercase tracking-[0.25em] text-[#8A3E36] transition hover:text-[#6C141C]"
+>
+  Резервирайте →
+</button>
         </div>
       </div>
     </article>
