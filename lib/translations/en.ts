@@ -94,7 +94,7 @@ export default {
     "You have the freedom to prepare your own food in a fully equipped kitchen at your disposal, equipped with a stove, refrigerator, coffee machine, dishwasher, washing machine, toaster, microwave, electric kettle, party grill and everything needed for a household.\nWe work with a restaurant with an excellent menu, from which fresh and hot food can be delivered to you upon order. We are also ready to prepare your food upon prior request.",
   "hotel.conditions.title": "Conditions",
   "hotel.conditions.description":
-    "Check-in at the house is after 3:00 PM, check-out is until 11:00 AM. An additional fee is charged for each subsequent hour after check-out time when the house is not vacated. Upon check-in, the amount according to the reservation is paid, as well as a deposit of 200 BGN, which is refunded after inspection upon check-out. Everything broken is paid for, deducted from the deposit.\nThe house should be left in decent condition, with washed dishes and thrown out garbage, otherwise 30 BGN will be deducted from the deposit for their additional cleaning.\nSmoking is prohibited in the rooms, there are alarm detectors notifying non-compliance.",
+    "Check-in at the house is after 3:00 PM, check-out is until 11:00 AM. An additional fee is charged for each subsequent hour after check-out time when the house is not vacated. Upon check-in, the amount according to the reservation is paid, as well as a deposit of 100 EUR, which is refunded after inspection upon check-out. Everything broken is paid for, deducted from the deposit.\nThe house should be left in decent condition, with washed dishes and thrown out garbage, otherwise 15 EUR will be deducted from the deposit for their additional cleaning.\nSmoking is prohibited in the rooms, there are alarm detectors notifying non-compliance.",
 
   // Rooms Page
   "rooms.hero.title": "Accommodation",
@@ -150,7 +150,7 @@ export default {
   "rooms.pricing.note2":
     "The reservation is confirmed after sending a deposit within five days from the day of reservation to the company's bank account. An adult accommodated in a separate room pays 70% of the value of the entire room.",
   "rooms.pricing.pets":
-    "Pets - upon inquiry, for a one-time fee of 30.00 BGN for a small breed and 40.00 BGN for a medium breed, regardless of the period of stay.",
+    "Pets - upon inquiry, for a one-time fee of 30 EUR for a small breed and 40 EUR for a medium breed, regardless of the period of stay.",
 
   // Events Page
   "events.hero.title": "Events",

@@ -203,13 +203,6 @@ function PriceCard({ item, index = 0 }: { item: PriceCard; index?: number }) {
 
         <div className="my-6 leading-tight">
           <span className="font-serif text-4xl font-light">
-            {item.priceBgn}
-          </span>
-          <span className="ml-2 text-lg">лв</span>
-
-          <br />
-
-          <span className="font-serif text-4xl font-light">
             {item.priceEur}
           </span>
           <span className="ml-2 text-lg">евро</span>
@@ -356,7 +349,7 @@ export default function RoomsClientPage() {
 
             <p>
               Домашни любимци се допускат след запитване, срещу еднократна такса
-              от 40.00 лв за малка порода и 50.00 лв за средна порода, независимо
+              от 30 евро за малка порода и 40 евро за средна порода, независимо
               от периода на престой.
             </p>
           </div>
