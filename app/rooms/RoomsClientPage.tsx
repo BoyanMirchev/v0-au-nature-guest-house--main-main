@@ -100,12 +100,18 @@ const housePrices: PriceCard[] = [
   },
   {
     title: "При една нощувка",
-    priceBgn: "1300.00",
-    priceEur: "650.00",
-    note: "на вечер",
-    featured: true,
+    priceBgn: "1400.00",
+  priceEur: "700.00",
+  note: "на вечер",
+  featured: true,
   },
-]
+  {
+  title: "Цена за зимен период",
+  priceBgn: "977.92",
+  priceEur: "500.00",
+  note: "на вечер",
+  },
+  ]
 
 const singlePrices: PriceCard[] = [
   {
@@ -311,7 +317,7 @@ export default function RoomsClientPage() {
             </p>
           </div>
 
-          <div className="mx-auto grid max-w-4xl gap-8 md:grid-cols-2">
+          <div className="mx-auto grid max-w-6xl gap-8 md:grid-cols-2 lg:grid-cols-3">
             {housePrices.map((item, index) => (
               <PriceCard key={item.title} item={item} index={index} />
             ))}
