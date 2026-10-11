@@ -100,8 +100,8 @@ const housePrices: PriceCard[] = [
   },
   {
     title: "При една нощувка",
-    priceBgn: "1300.00",
-  priceEur: "650.00",
+    priceBgn: "1400.00",
+  priceEur: "700.00",
   note: "на вечер",
   featured: true,
   },
